@@ -1,0 +1,9 @@
+#bird{
+    position: fixed;
+    height: 200px;
+    width: 250px;
+    left: 10px;
+    transition: 10s left linear;
+}
+
+
